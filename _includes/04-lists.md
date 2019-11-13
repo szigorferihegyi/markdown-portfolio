@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Beans
+2. Peas
+3. :smirk:
