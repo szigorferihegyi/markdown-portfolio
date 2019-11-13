@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![This is a mangalica pig in the snow](https://www.mangalica.com/wp-content/uploads/2018/08/mangalica-extincion-recuperacion-1.jpg)
